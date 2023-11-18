@@ -4,13 +4,21 @@ The database design below is used to develop the database in the Project
 ![markdown](https://drive.google.com/file/d/1qzuWX-WNGKmLGj8-HuD12Oe-dpodbsWh/view?usp=sharing)
 
 The above database contains the following tables:
+
 Table **tbl_Admin**: Contains Administrator information
+
 Table **tbl_Editor**: Contains Editor information
+
 Table **tbl_Reporter**: Contains information of Reporters
+
 Table **tbl_User**: Contains Readers' information
+
 Table **tbl_Approve**: Contains information related to News Approval
+
 Table **tbl_News**: Contains information about approved and currently approved News
+
 Table **tbl_Categorie**: Contains topics and categories of the newspaper page
+
 Table **tbl_Comment**: Contains readers' comments on each news story.
 
 **1. Step**: Create a database and tables in the database
